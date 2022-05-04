@@ -2,7 +2,7 @@
 .idea/
 
 # Temp. datasets
-test/*.zarr
+tests/*.zarr
 final/*.zarr
 
 # Byte-compiled / optimized / DLL files
