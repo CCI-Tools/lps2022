@@ -1,6 +1,10 @@
 # IDEs
 .idea/
 
+# Temp. datasets
+test/*.zarr
+final/*.zarr
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
