@@ -2,8 +2,8 @@
 .idea/
 
 # Temp. datasets
-tests/*.zarr
-final/*.zarr
+tests/*.zarr/
+final/*.zarr/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
